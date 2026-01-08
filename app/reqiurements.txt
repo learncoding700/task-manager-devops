@@ -1,0 +1,4 @@
+flask
+gunicorn
+redis
+psycopg2-binary
